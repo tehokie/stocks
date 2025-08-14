@@ -1,0 +1,13 @@
+{
+  "mock": {
+    "app_key": "모의투자 app_key 입력",
+    "app_secret": "모의투자 app_secret 입력",
+    "host": "https://mockapi.kiwoom.com"
+  },
+  "real": {
+    "app_key": "실제투자 app_key 입력",
+    "app_secret": "실제투자 app_secret 입력",
+    "host": "https://api.kiwoom.com"
+  }
+}
+
